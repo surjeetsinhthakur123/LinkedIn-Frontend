@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "https://surjeet-backend.onrender.com/api/v1", 
+  baseURL: "https://linkedin-backend-1-biwl.onrender.com/api/v1", 
   withCredentials: true,
 });
